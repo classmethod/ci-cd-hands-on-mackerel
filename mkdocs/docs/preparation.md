@@ -8,7 +8,7 @@
 
 ### サンプルアプリケーションのフォーク
 
-  [こちら](https://github.com/katainaka0503/ci-cd-hands-on-codedeploy)のリポジトリをフォークし、自分のアカウントにリポジトリを作成します。
+  [こちら](https://github.com/classmethod/ci-cd-hands-on-mackerel)のリポジトリをフォークし、自分のアカウントにリポジトリを作成します。
   
   サンプルアプリケーションは、指定された数までFizzBuzzを表示するNode.jsによる簡単なアプリケーションです。
 
